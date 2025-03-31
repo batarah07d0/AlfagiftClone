@@ -1,1 +1,3 @@
-#Recreate Aplikasi Alfagift
+# Recreate Aplikasi Alfagift
+## Tech Stack
+1. React Native
