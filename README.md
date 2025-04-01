@@ -4,8 +4,8 @@ Link Aplikasi Asli : https://play.google.com/store/apps/details?id=com.alfamart.
 ### Tech Stack
 - React Navigation
 - React Gesture Handler
-3. React Native Reanimated
-4. AsynStorage
-5. React Native Vector Icons
-6. React Native Paper
-7. React Native Maps
+- React Native Reanimated
+- AsynStorage
+- React Native Vector Icons
+- React Native Paper
+- React Native Maps
