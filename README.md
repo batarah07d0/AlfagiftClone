@@ -1,11 +1,3 @@
 # Recreate Aplikasi Alfagift: Groceries Online
-Link Aplikasi Asli : https://play.google.com/store/apps/details?id=com.alfamart.alfagift
-
-### Tech Stack
-- React Navigation
-- React Gesture Handler
-- React Native Reanimated
-- AsynStorage
-- React Native Vector Icons
-- React Native Paper
-- React Native Maps
+Link Aplikasi Asli   : https://play.google.com/store/apps/details?id=com.alfamart.alfagift
+Link Laporan Project : https://docs.google.com/document/d/1B_QCtuJ5pRk7ecPh2SWC8szKEDsehQTu0M8HjleM8V0/edit?usp=sharing
